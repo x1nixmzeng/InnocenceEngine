@@ -1,0 +1,14 @@
+# Blender MTL File: 'TestObjPoly.blend'
+# Material Count: 2
+
+newmtl OuterMat
+map_Kn PBS//rustediron2_normal.png
+map_Kd PBS//rustediron2_basecolor.png
+map_Ks PBS//rustediron2_metallic.png
+map_Ka PBS//rustediron2_roughness.png
+
+newmtl InnerMat
+map_Kn //basic_normal.png
+map_Kd //basic_albedo_colorRef.png
+map_Ks PBS//bamboo-wood-semigloss-metal.png
+map_emissive PBS//bamboo-wood-semigloss-ao.png
