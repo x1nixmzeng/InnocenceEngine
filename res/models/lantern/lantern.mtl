@@ -1,0 +1,12 @@
+newmtl StingrayPBS1SG
+map_Kn lantern//lantern_Normal_OpenGL.jpg
+map_Kd lantern//lantern_Base_Color.jpg
+map_Ks lantern//lantern_Metallic.jpg
+map_Ka lantern//lantern_Roughness.jpg
+map_emissive lantern//lantern_Mixed_AO.jpg
+newmtl StingrayPBS2SG
+map_Kn lantern//lantern_Normal_OpenGL.jpg
+map_Kd lantern//lantern_Base_Color.jpg
+map_Ks lantern//lantern_Metallic.jpg
+map_Ka lantern//lantern_Roughness.jpg
+map_emissive lantern//lantern_Mixed_AO.jpg
