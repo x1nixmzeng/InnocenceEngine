@@ -2,13 +2,23 @@
 # Material Count: 2
 
 newmtl OuterMat
-map_Kn PBS//rustediron2_normal.png
-map_Kd PBS//rustediron2_basecolor.png
-map_Ks PBS//rustediron2_metallic.png
-map_Ka PBS//rustediron2_roughness.png
+Kd 0.96 0.96 0.97 
+Ks 1
+Ka 0.4
+Ke 1
+map_Kn PBS//greasy-metal-pan1-normal.png
+map_Kd PBS//greasy-metal-pan1-albedo.png
+map_Ks PBS//greasy-metal-pan1-metallic.png
+map_Ka PBS//greasy-metal-pan1-roughness.png
 
 newmtl InnerMat
-map_Kn //basic_normal.png
-map_Kd //basic_albedo_colorRef.png
-map_Ks PBS//bamboo-wood-semigloss-metal.png
-map_emissive PBS//bamboo-wood-semigloss-ao.png
+Kd 0.98 0.82 0.76 
+Ks 1
+Ka 0.2
+Ke 1
+map_Kn PBS//old-textured-fabric-normal.png
+map_Kd PBS//old-textured-fabric-albedo.png
+map_Ks PBS//old-textured-fabric-metallic.png
+map_Ka PBS//old-textured-fabric-roughness.png
+map_emissive PBS//old-textured-fabric-ao.png
+
