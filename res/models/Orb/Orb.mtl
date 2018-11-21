@@ -6,10 +6,6 @@ Kd 0.96 0.96 0.97
 Ks 1
 Ka 0.4
 Ke 1
-map_Kn PBS//greasy-metal-pan1-normal.png
-map_Kd PBS//greasy-metal-pan1-albedo.png
-map_Ks PBS//greasy-metal-pan1-metallic.png
-map_Ka PBS//greasy-metal-pan1-roughness.png
 
 newmtl InnerMat
 Kd 0.98 0.82 0.76 
