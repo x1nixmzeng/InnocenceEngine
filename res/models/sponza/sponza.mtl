@@ -48,7 +48,6 @@ newmtl Material__57
 	map_Kd sponza//vase_plant_diffuse.png
 	map_Kn sponza//vase_plant_normal.png
 	map_Ka sponza//vase_plant_roughness.png
-	map_d sponza//vase_plant_mask.png
 
 newmtl Material__298
 	Ns 10.0000
@@ -319,7 +318,6 @@ newmtl chain
 	Ke 0.0000 0.0000 0.0000
 	map_Ks sponza//chain_texture_metallic.png
 	map_Kd sponza//chain_texture_albedo.png
-	map_d sponza//chain_texture_mask.png
 	map_Kn sponza//chain_texture_normal.png
 	map_Ka sponza//chain_texture_roughness.png
 
