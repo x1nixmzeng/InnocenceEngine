@@ -10,9 +10,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kn arm_showroom_ddn.png
-map_Kd arm_dif.png
-map_Ks arm_showroom_spec.png
+map_Kn nanosuit//arm_showroom_ddn.png
+map_Kd nanosuit//arm_dif.png
+map_Ks nanosuit//arm_showroom_spec.png
 
 newmtl Body
 Ns 96.078431
@@ -23,9 +23,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd body_dif.png
-map_Kn body_showroom_ddn.png
-map_Ks body_showroom_spec.png
+map_Kd nanosuit//body_dif.png
+map_Kn nanosuit//body_showroom_ddn.png
+map_Ks nanosuit//body_showroom_spec.png
 
 newmtl Glass
 Ns 96.078431
@@ -36,8 +36,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kn glass_ddn.png
-map_Kd glass_dif.png
+map_Kn nanosuit//glass_ddn.png
+map_Kd nanosuit//glass_dif.png
 
 newmtl Hand
 Ns 96.078431
@@ -48,9 +48,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kn hand_showroom_ddn.png
-map_Kd hand_dif.png
-map_Ks hand_showroom_spec.png
+map_Kn nanosuit//hand_showroom_ddn.png
+map_Kd nanosuit//hand_dif.png
+map_Ks nanosuit//hand_showroom_spec.png
 
 newmtl Helmet
 Ns 96.078431
@@ -61,9 +61,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kn helmet_showroom_ddn.png
-map_Kd helmet_diff.png
-map_Ks helmet_showroom_spec.png
+map_Kn nanosuit//helmet_showroom_ddn.png
+map_Kd nanosuit//helmet_diff.png
+map_Ks nanosuit//helmet_showroom_spec.png
 
 newmtl Leg
 Ns 96.078431
@@ -74,6 +74,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kn leg_showroom_ddn.png
-map_Kd leg_dif.png
-map_Ks leg_showroom_spec.png
+map_Kn nanosuit//leg_showroom_ddn.png
+map_Kd nanosuit//leg_dif.png
+map_Ks nanosuit//leg_showroom_spec.png
