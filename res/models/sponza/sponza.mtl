@@ -316,10 +316,10 @@ newmtl chain
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ks ..//res//textures//sponza//chain_textures_metallic.png
-	map_Kd ..//res//textures//sponza//chain_textures_albedo.png
-	map_Kn ..//res//textures//sponza//chain_textures_normal.png
-	map_Ka ..//res//textures//sponza//chain_textures_roughness.png
+	map_Ks ..//res//textures//sponza//chain_texture_metallic.png
+	map_Kd ..//res//textures//sponza//chain_texture_albedo.png
+	map_Kn ..//res//textures//sponza//chain_texture_normal.png
+	map_Ka ..//res//textures//sponza//chain_texture_roughness.png
 
 newmtl vase_hanging
 	Ns 10.0000
