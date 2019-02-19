@@ -12,9 +12,9 @@ Kd 0.98 0.82 0.76
 Ks 1
 Ka 0.2
 Ke 1
-map_Kn PBS//old-textured-fabric-normal.png
-map_Kd PBS//old-textured-fabric-albedo.png
-map_Ks PBS//old-textured-fabric-metallic.png
-map_Ka PBS//old-textured-fabric-roughness.png
-map_emissive PBS//old-textured-fabric-ao.png
+map_Kn ..//res//textures//PBS//old-textured-fabric-normal.png
+map_Kd ..//res//textures//PBS//old-textured-fabric-albedo.png
+map_Ks ..//res//textures//PBS//old-textured-fabric-metallic.png
+map_Ka ..//res//textures//PBS//old-textured-fabric-roughness.png
+map_emissive ..//res//textures//PBS//old-textured-fabric-ao.png
 
